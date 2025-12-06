@@ -1,4 +1,4 @@
-# CNCT Token
+CNCT Token
 
 CNC Loyalty Token on BNB Chain  
 5% CNC cashback per order + 15% staking APY  
